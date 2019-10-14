@@ -1,0 +1,10 @@
+{
+  "name": "dreamovies-plugin-example",
+  "version": "0.0.1",
+  "description": "example of electron plugin for Dreamovies App",
+  "main": "index.js",
+  "repository": "git@github.com:SrPatinhas/dreamovies-plugin-example.git",
+  "author": "SrPatinhas",
+  "license": "GNU GPLv3",
+  "private": false
+}
